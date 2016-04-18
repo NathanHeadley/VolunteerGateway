@@ -1,0 +1,10 @@
+M:\VG\VG Project\VG Project\bin\Release\VG Project.exe.config
+M:\VG\VG Project\VG Project\bin\Release\VG Project.exe
+M:\VG\VG Project\VG Project\bin\Release\VG Project.pdb
+M:\VG\VG Project\VG Project\bin\Release\VG Project.xml
+M:\VG\VG Project\VG Project\obj\Release\VG_Project.Form1.resources
+M:\VG\VG Project\VG Project\obj\Release\VG_Project.Resources.resources
+M:\VG\VG Project\VG Project\obj\Release\VG Project.vbproj.GenerateResource.Cache
+M:\VG\VG Project\VG Project\obj\Release\VG Project.exe
+M:\VG\VG Project\VG Project\obj\Release\VG Project.xml
+M:\VG\VG Project\VG Project\obj\Release\VG Project.pdb

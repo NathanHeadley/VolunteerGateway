@@ -9,3 +9,14 @@ C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Map Builder\VG Project\VG 
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Map Builder\VG Project\VG Project\obj\Debug\VG Project.xml
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Map Builder\VG Project\VG Project\obj\Debug\VG Project.pdb
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Map Builder\VG Project\VG Project\obj\Debug\VG Project.vbprojResolveAssemblyReference.cache
+M:\VG\VG Project\VG Project\bin\Debug\VG Project.exe.config
+M:\VG\VG Project\VG Project\bin\Debug\VG Project.exe
+M:\VG\VG Project\VG Project\bin\Debug\VG Project.pdb
+M:\VG\VG Project\VG Project\bin\Debug\VG Project.xml
+M:\VG\VG Project\VG Project\obj\Debug\VG Project.vbprojResolveAssemblyReference.cache
+M:\VG\VG Project\VG Project\obj\Debug\VG_Project.Form1.resources
+M:\VG\VG Project\VG Project\obj\Debug\VG_Project.Resources.resources
+M:\VG\VG Project\VG Project\obj\Debug\VG Project.vbproj.GenerateResource.Cache
+M:\VG\VG Project\VG Project\obj\Debug\VG Project.exe
+M:\VG\VG Project\VG Project\obj\Debug\VG Project.xml
+M:\VG\VG Project\VG Project\obj\Debug\VG Project.pdb
